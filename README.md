@@ -1,4 +1,4 @@
-# ECG-Based Heart Rate Monitor 🫀
+# ECG-Based Heart Rate Monitor 
 A personal electronics project combining ECG sensing (which is more exact than smart watches that you wear on your wrist),
 schematic design, PCB layout and hands-on assembly.
 
@@ -7,7 +7,7 @@ I developed the schematic and PCB layout myself using
 **Altium Designer**.
 
 I populated and assembled the PCB myself, including
-hand soldering the **through-hole (THT) components**.
+hand soldering the **through-hole components**.
 
 The project covers:
 - Schematic design
