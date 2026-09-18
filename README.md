@@ -19,7 +19,7 @@ The project covers:
 <img width="113" height="150" alt="image" src="https://github.com/user-attachments/assets/3eefdb5b-57fa-48d6-8bf3-9ef693da75ca" />
 
 
-📦 [Download PCB manufacturing files]: [Gerber_Files_Nina_Mueller.zip](https://github.com/user-attachments/files/32392483/Gerber_Files_Nina_Mueller.zip)
+You can download the PCB manufacturing files: [Gerber_Files_Nina_Mueller.zip](https://github.com/user-attachments/files/32392483/Gerber_Files_Nina_Mueller.zip)
 
 ## Author
 Nina-Ilenna Müller
