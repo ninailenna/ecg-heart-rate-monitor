@@ -18,6 +18,8 @@ The project covers:
 ## Hardware Photos
 <img width="113" height="150" alt="image" src="https://github.com/user-attachments/assets/3eefdb5b-57fa-48d6-8bf3-9ef693da75ca" />
 
+## Function
+The idea is to store or rather send ECG heart rate data to the phone (which is why the board inlcudes a ESP32) to see the development of the heart function while doing cardio sports. Additionally, the person knows in what cardio zone she or he is while doing the cardio sports, since RGB-LEDs light up in different colours (depending on the cardio zone).
 
 You can download the PCB manufacturing files: [Gerber_Files_Nina_Mueller.zip](https://github.com/user-attachments/files/32392483/Gerber_Files_Nina_Mueller.zip)
 
